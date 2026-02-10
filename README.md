@@ -57,4 +57,4 @@ To solve this on quantum hardware or simulators, we translate the MVO into a **Q
 
 ---
 
-**Built for the WEEX Alpha Awakens Hackathon | Imperial College London**
+**Built for the WEEX Alpha Awakens Hackathon**
