@@ -9,7 +9,7 @@
 
 **Quantum Alpha Nexus (QAN)** is an advanced automated trading framework developed for the **WEEX AI Automated Trading Hackathon**. The project tackles the "curse of dimensionality" in high-frequency trading (HFT)—the massive computational challenge of real-time portfolio rebalancing and risk management across a vast universe of digital assets.
 
-By integrating the **CoinGecko API** for deep market intelligence with quantum algorithms (QAOA and VQE), QAN identifies the "Efficient Frontier" of assets—minimising risk and maximising returns—with a speed and precision unattainable by standard classical solvers.
+By integrating the **CoinGecko API** for deep market intelligence with quantum algorithms **Quantum Approximate Optimisation Algorithm and Variational Quantum Eigensolver**, QAN identifies the "Efficient Frontier" of assets—minimising risk and maximising returns—with a speed and precision unattainable by standard classical solvers.
 
 ---
 
